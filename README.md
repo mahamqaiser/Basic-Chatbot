@@ -1,4 +1,4 @@
-# Basic Chatbot 🤖
+# Basic Chatbot 
 
 A **basic rule-based chatbot** built in Python.  
 It responds to a few predefined messages and ends the conversation when the user types `"bye"`.
@@ -20,6 +20,7 @@ It responds to a few predefined messages and ends the conversation when the user
    ```bash
    python chatbot.py
 
+## Example;
 Simple Chatbot
 Type 'bye' to exit.
 
